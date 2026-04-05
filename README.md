@@ -1,4 +1,4 @@
-# Toll Calculator Microservices
+# Toll Tracker Microservices
 
 A Go-based, event-driven microservices architecture for tracking vehicle movements and calculating toll invoices based on distance traveled. It leverages Kafka for high-throughput event streaming, gRPC for fast inter-service communication, and Prometheus for monitoring.
 
